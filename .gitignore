@@ -1,0 +1,18 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libs (Shared Objects)
+*.so
+*.dylib
+*.dll
+
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Output directory
+/dist/

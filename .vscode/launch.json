@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug mk12pman",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/mk12pman.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "preLaunchTask": "build mk12pman"
+        }
+    ]
+}
