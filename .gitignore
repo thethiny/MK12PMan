@@ -3,6 +3,7 @@
 *.lo
 *.o
 *.obj
+.vs
 
 # Compiled Dynamic libs (Shared Objects)
 *.so
@@ -14,5 +15,9 @@
 *.out
 *.app
 
-# Output directory
+# Output directories
 /dist/
+out/
+
+# Input directories
+files/
